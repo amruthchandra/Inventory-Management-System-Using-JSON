@@ -1,0 +1,112 @@
+{
+  "category": {
+    "Chocolates": {
+      "Milkybar": {
+        "quantity": 16,
+        "price": 5,
+        "arrived_date": "03-09-2021"
+      },
+      "DairyMilk": {
+        "quantity": 10,
+        "price": 25,
+        "arrived_date": "04-09-2021"
+      },
+      "Much": {
+        "quantity": 17,
+        "price": 10,
+        "arrived_date": "06-09-2021"
+      },
+      "barbon": {
+        "quantity": 50,
+        "price": 20,
+        "arrived_date": "06-09-2021"
+      },
+      "kitkat": {
+        "quantity": 40,
+        "price": 10,
+        "arrived_date": "06-09-2021"
+      }
+    },
+    "Icecreams": {
+      "Vanilla": {
+        "quantity": 15,
+        "price": 5,
+        "arrived_date": "03-09-2021"
+      },
+      "Butterscotch": {
+        "quantity": 10,
+        "price": 6,
+        "arrived_date": "04-09-2021"
+      },
+      "Strawberry": {
+        "quantity": 16,
+        "price": 5,
+        "arrived_date": "03-09-2021"
+      },
+      "Choclotae": {
+        "quantity": 10,
+        "price": 6,
+        "arrived_date": "04-09-2021"
+      },
+      "Sethafaul": {
+        "quantity": 10,
+        "price": 6,
+        "arrived_date": "04-09-2021"
+      }
+    },
+    "CoolDrinks": {
+      "Mazza": {
+        "quantity": 16,
+        "price": 5,
+        "arrived_date": "03-09-2021"
+      },
+      "sprite": {
+        "quantity": 10,
+        "price": 25,
+        "arrived_date": "04-09-2021"
+      },
+      "limca": {
+        "quantity": 17,
+        "price": 10,
+        "arrived_date": "06-09-2021"
+      },
+      "ThumbsUP": {
+        "quantity": 40,
+        "price": 10,
+        "arrived_date": "06-09-2021"
+      },
+      "Mountain Due": {
+        "quantity": 40,
+        "price": 10,
+        "arrived_date": "06-09-2021"
+      }
+    },
+    "Stationary": {
+      "Pencil": {
+        "quantity": 16,
+        "price": 5,
+        "arrived_date": "03-09-2021"
+      },
+      "Eraser": {
+        "quantity": 10,
+        "price": 6,
+        "arrived_date": "04-09-2021"
+      },
+      "Sharpener": {
+        "quantity": 10,
+        "price": 6,
+        "arrived_date": "04-09-2021"
+      },
+      "Scale": {
+        "quantity": 10,
+        "price": 6,
+        "arrived_date": "04-09-2021"
+      },
+      "pens": {
+        "quantity": 10,
+        "price": 5,
+        "arrived_date": "04-09-2021"
+      }
+    }
+  }
+}
