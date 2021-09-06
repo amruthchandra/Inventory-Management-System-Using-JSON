@@ -65,7 +65,7 @@ while(1):
         print("Enter the price of the product")
         price = int(input())
         print("Enter the quantity")
-        quant = input()
+        quant = int(input())
         print("Enter the arrived date")
         date = input()
         try:
